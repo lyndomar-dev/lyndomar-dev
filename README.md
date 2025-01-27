@@ -2,10 +2,16 @@
 
 Bem-vindo ao meu perfil! Sou um estudante apaixonado por programação e atualmente focado em aprender **Java** e desenvolvimento de software.
 
+<style>
+  body {
+    font-family: 'JetBrains Mono', monospace;
+  }
+</style>
+
 ## 🚀 Minhas Estatísticas
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lyndomar&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" style="border-radius: 10px; font-family: 'JetBrains Mono', monospace;" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyndomar&layout=compact&theme=dark&hide_border=true" style="border-radius: 10px; font-family: 'JetBrains Mono', monospace;" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lyndomar&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" style="border-radius: 10px;" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyndomar&layout=compact&theme=dark&hide_border=true" alt="Linguagens mais usadas" style="border-radius: 10px;" />
 </p>
 
 ## 🛠️ Tecnologias e Ferramentas
